@@ -1,0 +1,13 @@
+{
+  "name": "construccion",
+  "version": "1.0.0",
+  "description": "Video de construccion",
+  "main": "index.js",
+"scripts": {
+  "test": "echo \"No hay pruebas definidas\" && exit 0"
+}
+,
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
